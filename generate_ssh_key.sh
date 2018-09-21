@@ -1,3 +1,5 @@
 #!/bin/bash
 
-echo Hello World
+echo Enter your GitHub email address:
+read email_address
+echo $email_address
